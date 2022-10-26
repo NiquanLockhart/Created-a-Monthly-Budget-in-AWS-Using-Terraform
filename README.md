@@ -1,2 +1,1 @@
-# NiquanLockhart-Creating_a_Monthly_Budget_in_AWS_using_Terraform
-NiquanLockhart/Creating_a_Monthly_Budget_in_AWS_using_Terraform
+Used Terraform to create a monthly budget of 100$ in AWS. 
